@@ -1,7 +1,6 @@
-#hths
-<br/>
 
-<p align="center">
+<br/>
+< p align="center">
 
   <a href="https://github.com/Mad-Neko/Nro-Offline">
 
